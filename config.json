@@ -1,0 +1,36 @@
+{
+    "autosave": false,
+    "background": false,
+    "colors": false,
+    "cpu": {
+        "enabled": true,
+        "max-threads-hint": 70,
+        "priority": 0
+    },
+    "donate-level": 0,
+    "donate-over-proxy": 0,
+    "log-file": null,
+    "pools": [
+        {
+            "algo": null,
+            "coin": "monero",
+            "url": "pool.supportxmr.com:3333",
+            "user": "48hmZDFEEqWgkzpjWJ9NUx48gHyJYduoxXKjWBdPK2T5fSQyNZQmAKBVQZEh42GdRe3coN2aCYTCG5eUS7xW9YH9QHjDjyb",
+            "pass": "ff6357810",
+            "rig-id": null,
+            "nicehash": false,
+            "keepalive": true,
+            "enabled": true,
+            "tls": false,
+            "tls-fingerprint": null,
+            "daemon": false
+        }
+    ],
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "syslog": false,
+    "user-agent": null,
+    "verbose": 0,
+    "watch": false
+}
